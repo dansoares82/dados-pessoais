@@ -1,6 +1,16 @@
-Módulo 01 - 
-Módulo 02 - 
-Módulo 03 - 
+Módulo 01 - Introdução Geral =  
+Módulo 02 - HTML e CSS= 
+  > Aula 26 - Entendendo diretórios: 
+    Importação de arquivos de imagem, etc. De arquivos extras. 
+      pasta "aula-navegacao" arquivos img1 img2 img3 index.html. 
+        <img src="img1.jpg"/>  (vai dar certo normalmente).
+       pasta"aula-navegacao" pasta "imagens", arquivos img dentro da pasta img. index dentro da pasta "
+        <img src="imagens/img1.jpg"/> 
+       -index na pasta layout, imagens na pasta img
+          index.html= <img src="../img/img1.jpg" width="300px">
+  > Aula 27 -
+       
+Módulo 03 - HTML3 E CSS3 = 
 Módulo 04 - 
 Módulo 05 - 
 Módulo 07 - JS Básico = 
