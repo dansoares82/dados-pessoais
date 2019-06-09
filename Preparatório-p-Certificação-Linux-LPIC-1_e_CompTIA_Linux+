@@ -1,1 +1,15 @@
+>SEÇÃO 01 - APRESENTAÇÃO E INTRODUÇÃO: 
+>AULA 01 - APRESENTAÇÃO, A LPI, A COMPTIA, A PARCERIA E O SEU FIM: 
+  Curso preparatório para a certificação: LPIC-1 (exames 101 e 102), CompTIA Linux+ (exames LX0-103 e LX0-104).
+  Prof. Ricardo Prudenciato, 15 anos de experiência com Linux, atuação em grandes e médias empresas, experiência como adm de sistemas e analista de suporte, mais de 21 mil alunos em cursos online.
+  A LPI: lpi (linux professional institute), instituição sem fins lucrativos, programa de certificação em sistemas gnu/linux, independente de qlq distribuição linux é genérica. 
+    As certificações são respectivamente: linux essentials, lpic-1, lpic-2, lpic-3 (security), lpic-3 (), lpic-3 (). A linux essentials não é necessária para quem quer tirar a lpic-1.
+LPIC-1: é voltada para adm de sistemas linux, o profissional deve ser capaz de realizar tarefas de manutenção, instalação e configuração em qlq sistema linux, via linha de comando. São 2 provas 101 e 102 (cada uma com 60 questões e 1:30h de duração).
+  Há um traço que significa a versão, ex: 101-400 (versão 4) e por ai adiante.
+A CompTIA: associação industrial e tecnológica de computadores é uma das maiores empresas certificadoras da área, que também promove treinamentos, palestrar e pesquisas em diversas áreas. Ela possui os certificados Linux+, A+, IT Fundamentals, Security+, Network+.
+  Parceria LPI + CompTIA: CompTIA Linux+ (lx0-103 e lx0-104) seguem o mesmo programa dos exames da lpic-1 (101-400 e 102-400). Na prática as questões são as mesmas, conquistando a Linux+ CompTIA ele também recebe a LPIC-1.   
+Mas, a parceria vai acabar!
+   A comptia elaborou um exame totalmente independente da LPI, não será mais reconhecido para a LPI-1, novo exame será XK0-004, Lancamento em abril de 2019 (inglês).
 
+>AULA 02 - OS EXAMES E O CURSO: 
+  Agendamento e realização dos exames: Os exames são realizados presencialmente em centros de testes da PersonVUE, Os exames podem ser comprados no próprio site da personVUE ou no site da LPI e CompTIA, o agendamento é sempre feito no site da PersonVUE. Eventualmente a LPI aplica exames em papel em eventos, mas é raro e não há uma programação para isso.
