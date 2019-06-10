@@ -25,5 +25,26 @@
 	
 	snap é só instalar tbm, da mesma forma: sudo apt-get install snapd
 	usando o snap: snap search nome-package, snap install nome-package, snap list.
+
+-formatando dispositivos e pen drives pelo terminal:
+	1o entrar como root.
+	2o montar o pendrive após conecta-lo. 
+	3o dar o comando mount para ver os dispositivos montados.
+	4o encontrar o pen-drive normalmente é /dev/sdc1 e tbm tem o nome do pendrive.
+	5o comando: umount /dev/sdc1(o nome q for) para desmontar o pendrive.
+	6o como root vamos formatar no formato FAT: mkfs.vfat /dev/sdc1
+	7o agora é só esperar q ele será formatado.
+
+-app linux com vários emuladores de jogos linux:
+
+-usar dois ou mais comandos no terminal linux ao mesmo tempo: também é conhecido como "encadeamento de comandos": 
+	1.operador ponto e vírgula (;): permite executar vários comandos em sucessão, ex:
+		exemplo: ls ; pwd ; whoami
+	2. operador lógico E (&&): da pra executar dois comandos com o op &&.
+		exemplo: mkdir MyPasta && cd MyPasta (criou e acessou um diretório)
+	3. operador lógico OU ( || ): executa o 2o comando apenas se o primeiro não for executado com sucesso.
+		exemplo: verificar se uma pasta existe e cria-la em seguida se ela não existir 
+			[ -d ~/myPasta ]  || mkdir ~/myPasta
+	4. combinando vários operadores: é usar o && e o  || duas vezes.
 	
 	
