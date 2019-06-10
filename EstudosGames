@@ -1,10 +1,12 @@
 Pesquisas e estudos para games: 
 
-Criar um jogo envolve o uso de
+Criar um jogo envolve o uso de uma série de recursos diferentes: desde a ate e modelagem gráfica até a composição de trilhas sonoras, programação e aplicação das mecânicas e movimentos necessários para cada objeto ou personagem. 
+	Ferramentas engines (motores de jogo), arte, modelagem e animação em 2D e 3D e áudio. Muitas dessas ferramentas são gratuitas e em código aberto:
 Categorias de Games existentes:
 	Ação
 	Indie 
 	Aventura
 
 Programas Linux usados no desenvolvimento de games no linux:
-	
+Pesquisas e estudos para games: 
+	Defold é uma engine gratuita criada pela King (dona do famoso candy crush, game que virou febre). O SW tem seu próprio editor e usa a linguagem Lua para criação de scripts. Mesmo em fase beta 
