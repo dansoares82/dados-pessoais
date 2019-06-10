@@ -1,0 +1,29 @@
+-comando ls é usado para exibir o conteúdo do diretório atual
+-comando cd é usado para trafegar pelos diretórios
+	comando cd .. sai do diretório 2 e vai para o diretório 1.
+	comando cd / vai para a raiz do sistema.
+-instalar arquivos .deb: 
+	dpkg -i nome-do-programa.deb
+
+-abrir arquivos .run:
+	primeiro ache o arquivo na pasta pelo terminal.
+	segundo vc da autorização com o comando chmod +x nome-do-arquivo.run
+	terceiro vc abre o arquivo com o comando: ./nome-do-arquivo.run
+	por último vc instala o arquivo normalmente pela tela instaladora padrão.
+
+-abrir arquivos .tar.bz: 
+	
+-vc pode instalar arquivos usando os sistemas de arquivos padrões, atualmente temos apt-get, aptitude, snap.
+	apt-get já vem no linux e é o gerenciador de pacotes mais usado, não precisa ser instalado. 
+	
+	aptitude é mais organizado e não vem instalado vc precisa instalar com os comandos: 
+	1o entrar como root.
+	2o dar o comando apt-get install aptitude
+	3o aceitar com S e esperar finalizar. 
+	para usa-lo é só: aptitude install nome-do-programa
+	para pesquisar programas é só: aptitude search nome-referencia-do-programa
+	
+	snap é só instalar tbm, da mesma forma: sudo apt-get install snapd
+	usando o snap: snap search nome-package, snap install nome-package, snap list.
+	
+	
