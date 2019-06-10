@@ -22,7 +22,6 @@
 	3o aceitar com S e esperar finalizar. 
 	para usa-lo é só: aptitude install nome-do-programa
 	para pesquisar programas é só: aptitude search nome-referencia-do-programa
-	
 	snap é só instalar tbm, da mesma forma: sudo apt-get install snapd
 	usando o snap: snap search nome-package, snap install nome-package, snap list.
 
@@ -46,5 +45,18 @@
 		exemplo: verificar se uma pasta existe e cria-la em seguida se ela não existir 
 			[ -d ~/myPasta ]  || mkdir ~/myPasta
 	4. combinando vários operadores: é usar o && e o  || duas vezes.
+	
+-rodando appimage: 
+	1.baixar o app
+	2.abrir no terminal como root e achar o arquivo.
+	3.dar permissão de acesso para o app: chmod +x nome-arquivo.appimage
+	4.abrir o appimage com o comando: ./nome-arquivo.appimage
+	5.usar normalmente e fazer isso todas vezes que for abrir pra não ter problemas.
+
+-acessando pastas (interface gráfica) pelo terminal, podem ser pastas ocultas: 
+	1.acessar o modo root e baixar o nautilus, com o comando: apt install nautilus.
+	2.achar a pasta pelo terminal e para abri-la graficamente: nautilus ./ ou home/daniel, etc...
+
+-
 	
 	
