@@ -57,6 +57,17 @@
 	1.acessar o modo root e baixar o nautilus, com o comando: apt install nautilus.
 	2.achar a pasta pelo terminal e para abri-la graficamente: nautilus ./ ou home/daniel, etc...
 
+-mover e renomear arquivos e diretórios: 
+	o comando mv pode ser usado de duas formas diferentes: 
+		mv pasta/arquivo destino/  e ele será movido.
+		mv arq1 arq2 ele será renomeado.
+	o comando rename é melhor para renomear vários arquivos: ex um diretório cheio de arquivos img e eu quero colocar 'foto' na frente de todos arquivos é só:
+		rename 's/IMG/Foto/' *  (o asterisco é um caracctere curinga que representa todos os arquivos e diretórios da pasta de trabalho. 
+
+-apagando diretórios: 
+	rm -r nome-diretorio/
 -
+	
+	
 	
 	
