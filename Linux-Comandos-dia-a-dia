@@ -35,6 +35,21 @@
 	7o agora é só esperar q ele será formatado.
 	8o instalar o gparted através do apt com o comando: apt install gparted 
 	9o selecionar o dispositivo, ir em formatar, escolher o formato e deixar que seja formatado.
+-gravando iso no pen drive: 
+	1o entrar como root
+	2o ver os dispositivos com lsblk para ver o nome do pendrive.
+	3o ao saber o nome do dispositivo para gravar use o comando: 
+		dd if=/home/daniel/Downloads/arquivoiso.iso of=/dev/sdb bs=4M
+	4o depois é só formatar o pendrive e felicidade.
+-verificando se uma imagem iso está corrompida: 
+	1o esse teste usa a ferramenta md5sum que vem pre-instalada em quase todas distros linux.
+	2o vá até a pasta da iso. ex: cd Downloads
+	3o md5sum ubuntu-distro.iso
+	4o o resultado será parecido com esse: 53c869eba8686007239a650d903847fd ubuntu-18.04-desktop-amd64.iso
+	5o copie o resultado e vá para https://help.ubuntu.com/community/UbuntuHashes
+	6o clique na versão baixada, acesse a pasta md5sum
+	7o é só ver se o seu código é igual ao que está nos registros disponibilizados.
+	
 
 -app linux com vários emuladores de jogos linux:
 
