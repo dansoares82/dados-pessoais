@@ -76,6 +76,13 @@
 	5o: #modprobe eeprom    #modprobe w83627ehf (o número varia)
 	6o para visualizar a temperatura digite: sensors
 	
+-comando lspci = usado para listar o hardware do computador.
+-comando lspci -v = terá a especificação do hw mais outras especificações mais profundas.
+-comando lspci -k = indica diretamente qual é o drive que vc esta usando para executar aquele hw específico que vc quer.
+
+-lista de programas instalados no meu linux: 
+	firefox, sublime-text, nautilus, inkscape, gimp, emuladores ps1, ps2, ps3, gba, psp, steam, master pdf edition, 
+	transmission, htop, libre-office, polarr, crossover, p7zip desktop, wps office, gparted, 
 	
 	
 	
