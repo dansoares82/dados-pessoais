@@ -68,7 +68,14 @@
 
 -apagando diretórios: 
 	rm -r nome-diretorio/
--
+-monitorar a temperatura dos componentes pelo terminal: 
+	1o apt-get update
+	2o apt-get install lm-sensors
+	3o sensors-detect e aceitar com Y.
+	4o receber tipo: #chip drivers eeprom ww83627ehf
+	5o: #modprobe eeprom    #modprobe w83627ehf (o número varia)
+	6o para visualizar a temperatura digite: sensors
+	
 	
 	
 	
