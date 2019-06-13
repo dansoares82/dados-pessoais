@@ -31,8 +31,10 @@
 	3o dar o comando mount para ver os dispositivos montados.
 	4o encontrar o pen-drive normalmente é /dev/sdc1 e tbm tem o nome do pendrive.
 	5o comando: umount /dev/sdc1(o nome q for) para desmontar o pendrive.
-	6o como root vamos formatar no formato FAT: mkfs.vfat /dev/sdc1
+	6o como root vamos formatar no formato FAT: mkfs.vfat /dev/sdc1 
 	7o agora é só esperar q ele será formatado.
+	8o instalar o gparted através do apt com o comando: apt install gparted 
+	9o selecionar o dispositivo, ir em formatar, escolher o formato e deixar que seja formatado.
 
 -app linux com vários emuladores de jogos linux:
 
