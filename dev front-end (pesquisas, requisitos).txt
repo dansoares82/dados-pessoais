@@ -49,5 +49,7 @@ O que é API? REST e RESTfull?
 RESTful: Existe uma certa confusão quanto aos termos REST e RESTful. Entretanto, ambos representam os mesmo princípios. A diferença é apenas gramatical. Em outras palavras, sistemas que utilizam os princípios REST são chamados de RESTful.
     REST: conjunto de princípios de arquitetura
     RESTful: capacidade de determinado sistema aplicar os princípios de REST.
+  
+finalizar a pesquisa em: https://becode.com.br/o-que-e-api-rest-e-restful/
 
 	
