@@ -6,28 +6,29 @@ Mesa Digitalizadora:
   Seja ilustrador, designer gráfico ou áreas criativas, a mesa gráfica pode ajudar mt no fluxo de trabalho.
   
 Ideias para canecas: 
-  Séries: 
+  1.Séries: 
     How i met your mother.
     La casa de papel
-  Animes: 
-    Dragon Ball
-    Naruto
-    
-  Universitário:
-    Direito.
-    ADS/SI/CC (TI).
-  
-  Desenvolvedor/Programador, Linux, Windows:
-    Tecnologias Front-end, 
-    Tecnologias Back-end,
-    Linux
-    Windows
- 
-  Jogos:
-    GOW 4
-    Mortal Kombat 11
-    Cyberpunk 2077
-    Call Of Duty MW Remasterizado
+  2.Animes e Quadrinhos: 
+      Flash, Superman, Batman, Coringa.
+      Homem de ferro, Hulk, Thor, Capitã Marvel, Capitão América, Panthera Negra, uma com todos juntos.
+      Dragon Ball
+      Naruto    
+  3.Universitário:
+      Direito.
+      ADS/SI/CC (TI).
+      Enfermagem.
+      
+  4.Desenvolvedor/Programador, Linux, Windows:
+      Tecnologias Front-end, 
+      Tecnologias Back-end,
+      Linux
+      Windows 
+   5.Jogos:
+      GOW 4
+      Mortal Kombat 11
+      Cyberpunk 2077
+      Call Of Duty MW Remasterizado
     
 
 Sublimação - Problemas e Soluções: 
