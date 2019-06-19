@@ -18,7 +18,7 @@
 </div>
 
 
-> curso linux para certificação:
+>Preparatório-p-Certificação-Linux-LPIC-1_e_CompTIA_Linux+ =
 
 >SEÇÃO 01 - APRESENTAÇÃO E INTRODUÇÃO: 
 >AULA 01 - APRESENTAÇÃO, A LPI, A COMPTIA, A PARCERIA E O SEU FIM: 
