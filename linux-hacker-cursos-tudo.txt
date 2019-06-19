@@ -1,0 +1,18 @@
+>curso udemy hacker ético profissional linux:
+
+
+
+<h2>Curso terminal Linux, Shell Script e Gerenciamento de Redes (Udemy):</h2>
+<div style="margin-left:20px;"><br>
+ <b>SEÇÃO 01</b><br>
+  >AULA 01 - INTRODUÇÃO AO AMBIENTE:<br>
+   Download do virtual box para criar um ambiente virtual. Após isso, criar uma conexão de rede com o SO real e com o virtual.<br>
+   Fazer a instalação do Lubuntu para o estudo.<br>
+  >AULA 02 - INSTALAÇÃO DA MÁQUINA VIRTUAL: escolhas do virtual box na criação: lubuntu-server, x32, 1024 ram, vdi, mem dinamicamente alocado, 8gb min. <br>
+  >AULA 03 - INSTALAÇÃO DO LINUX: essa vc já sabe, padrão.<br>
+  >AULA 04 - INSTALAÇÃO DOS DRIVES NO LINUX: <br>
+  1. atualizar o vbox e adicionar um disco do vbox na máquina virtual.<br>
+  2. sudo -i  &gt; para entrar como root pelo terminal linux.<br>
+  3. cd /media/usuario/TAB - Depois é só digitar o comando ls para ver todos os drives disponiveis. <br>
+  4. <br>
+</div>
