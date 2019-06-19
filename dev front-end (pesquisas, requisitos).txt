@@ -53,3 +53,13 @@ RESTful: Existe uma certa confusão quanto aos termos REST e RESTful. Entretanto
 finalizar a pesquisa em: https://becode.com.br/o-que-e-api-rest-e-restful/
 
 	
+<h2 id="nodejs">NodeJS</h2>
+<div style="margin-left:20px;">
+ Fontes: YT VictorLima-GuiaDoProgramador.<br/> 
+ NodeJS é um interpretador JS que não depende do navegador, ou seja, ele é desvinculado do navegador. Então ele pode criar programas backend, desktop, jogos, etc. Ele revolucionou o mundo JS. <br/>
+Vantagens: muito leve, usa JS, Tem muitas bibliotecas, módulos e plugins do mundo, suporta um número imenso de requisições.<br/>
+Quem usa: ebay, netflix, microsoft, paypal, uber. <br/>
+  Como instalar: 
+   1º www.nodejs.org/ (ao entrar ele já detecta o seu SO)  >  LTS - baixar para Win-x64  >  e instalar. <br/>
+   2º abrir o cmd  >  digitar: node -v se ok, npm -v se ok, instalado com sucesso. <br/>
+</div>
